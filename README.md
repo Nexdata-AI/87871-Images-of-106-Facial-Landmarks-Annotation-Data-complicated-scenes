@@ -3,7 +3,7 @@
 ## Description
 7,871 Images of 106 Facial Landmarks Annotation Data (complicated scenes)，this dataset includes yellow race, black race, white race and Indian people. In order to be more challenging, the data includes multiple scenes, multiple poses, different ages, light conditions and complicated expressions. This data can be used for tasks such as face detection and face recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/dataset/961?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/961?source=Github
 
 
 # Specifications
